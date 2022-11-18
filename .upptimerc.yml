@@ -19,6 +19,93 @@ sites:
     url:	http://restaurantcrazypizza.de
   - name:	Alt Bockenheim - Indian Restaurant
     url:	http://restaurantaltbockenheim.de
+  - name:	Food World
+    url:	http://offenbach-foodworld.de
+  - name:	Indian Curry House Niederrad
+    url:	http://indiancurryhouseniederrad.de
+  - name:	Restaurant Mai Vien
+    url:	http://maivien.fleksa.de
+  - name:	Restaurant Taj Mahal
+    url:	http://frechentajmahal.de
+  - name:	Indian food Company
+    url:	http://indianfood-company.de
+  - name:	Restaurant Isha
+    url:	http://isha-restaurant.de
+  - name:	Ganesha Tandoori
+    url:	http://ganeshafrankfurt.de
+  - name:	Punjab Garden Tandoori
+    url:	http://punjabgardenfrankfurt.de
+  - name:	Sushi Sensei Frankfurt
+    url:	http://sushisenseifrankfurt.de
+  - name:	Pizzeria Bella Italia
+    url:	http://pizzabellaitaliafrankfurt.de
+  - name:	Pizza Kaiser
+    url:	http://pizzakaiser-frankfurt.de
+  - name:	Delhi Tandoori
+    url:	http://delhitandoori.de
+  - name:	Pizza Eck Frankfurt
+    url:	http://pizza-eck-frankfurt.de
+  - name:	Pizzeria Mülheim 2
+    url:	http://xn--pizzeriamlheim2-7vb.de
+  - name:	Restaurant Nidda
+    url:	http://restaurant-nidda.de
+  - name:	Bali's Restaurant
+    url:	http://balisrestaurant-ob.de
+  - name:	Pizza Hamburger Inn
+    url:	http://pizzahamburgerinn-griesheim.de
+  - name:	Uno's Pizza
+    url:	http://pizzeriaunoffm.de
+  - name:	Restaurant Ashoka Frankfurt
+    url:	http://ashokafrankfurt.de
+  - name:	Good Taste
+    url:	http://goodtaste.fleksa.de
+  - name:	Restaurant Hanoi Quan
+    url:	http://hanoiquanfrankfurt.de
+  - name:	Tandoori Masala Imbiss
+    url:	http://tandoorimasalaimbiss.de
+  - name:	Restaurant Kashmir India
+    url:	http://restaurantkashmirindia.de
+  - name:	Bali's Restaurant
+    url:	http://balisrestaurant-wesel.de
+  - name:	Go eat food service
+    url:	http://goeatfrankfurt.de
+  - name:	Star Pizza Deggendorf
+    url:	http://star-pizza-deggendorf.de
+  - name:	Main Curry House
+    url:	http://main-curry-house.de
+  - name:	Pizza Haus
+    url:	http://pizzahauslandau.de
+  - name:	Restaurant Little India
+    url:	http://littleindiaalteglofsheim.de
+  - name:	Pizza Plattlinger
+    url:	http://pizzaplattlinger.de
+  - name:	Pizza Roma Dingolfing
+    url:	http://pizzaromadingolfing.de
+  - name:	Pizza Roma Wallersdorf
+    url:	http://pizzaromawallersdorf.de
+  - name:	Pizza La Fontana
+    url:	http://altdorflafontana.de
+  - name:	Restaurant Taj Mahal
+    url:	http://altdorftajmahal.de
+  - name:	Restaurant Little India
+    url:	http://littleindiafreudenstadt.de
+  - name:	Restaurant Namaste
+    url:	http://namasteplattling.de
+  - name:	Star Pizzaservice
+    url:	http://teisnachstarpizza.de
+  - name:	Roma Pizza Schierling
+    url:	http://pizzaromaschierling.de
+  - name:	Kabab House Offenbach
+    url:	http://kababhouse.de
+  - name:	Restaurant Mayuri
+    url:	http://mayuri-duisburg.de
+  - name:	India Haus Restaurant
+    url:	http://indiahaus-md.de
+  - name:	Spice of India
+    url:	http://spiceofindia-hattersheim.de
+  - name:	Restaurant Mai Pho
+    url:	http://maiphokronberg.de
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
