@@ -116,27 +116,27 @@ sites:
   - name:	Rana's Pizza und Döner Service
     url:	http://rubipizzaservice.de
   - name:	Taj Mahal Restaurant
-   url:	http://tajmahaldeggendorf.de
+    url:	http://tajmahaldeggendorf.de
   - name:	Pizza Heimservice Taufkirchen
-   url:	http://pizzataufkirchen.de
+    url:	http://pizzataufkirchen.de
   - name:	Restaurant Namaskar
-   url:	http://namaskarrestaurant.de
+    url:	http://namaskarrestaurant.de
   - name:	Restaurant Jannat
-   url:	http://restaurant-jannat.de
+    url:	http://restaurant-jannat.de
   - name:	Nano Pizza Heimservice
-   url:	http://nanopizza.de
+    url:	http://nanopizza.de
   - name:	Tar Pizzaservice
-   url:	http://tarpizzaservice.de
+    url:	http://tarpizzaservice.de
   - name:	Pizzaservice Pizzano
-   url:	http://pizzaservicepizzano.de
+    url:	http://pizzaservicepizzano.de
   - name:	BLITZ CITY (Pizzaservice u. Lieferservice)
-   url:	http://pizzablitzcity.com
+    url:	http://pizzablitzcity.com
   - name:	Indian Zaika - Indisches restaurant
-   url:	http://zaikarestaurant.de
+    url:	http://zaikarestaurant.de
   - name:	Indian Tandoori Restaurant
-   url:	http://indiantandoorirestaurant.de
+    url:	http://indiantandoorirestaurant.de
   - name:	Pizza Harmonie
-   url:	http://pizzaharmonie.de
+    url:	http://pizzaharmonie.de
   - name:	Pizza Service Schwandorf
    url:	http://pizzaschwandorf.de
   - name:	Harman Pizza
@@ -195,39 +195,39 @@ sites:
    url:	http://pasing.delitadka.de
   - name:	Deli Tadka
    url:	http://riem.delitadka.de
-   name:	Deli Tadka
+  - name:	Deli Tadka
    url:	http://pep.delitadka.de
-   name:	Food world - Indian Kitchen
+  - name:	Food world - Indian Kitchen
    url:	http://indiankitchenoffenbach.de
-   name:	Pizza Roma Passau
+  - name:	Pizza Roma Passau
    url:	http://pizzaromapassau.de
-   name:	Der Pizzaservice Passau
+  - name:	Der Pizzaservice Passau
    url:	http://pizzaservicepassau.de
-   name:	Restaurant Ganesha
+  - name:	Restaurant Ganesha
    url:	http://xn--ganeshamnchen-3ob.de
-   name:	Pizza Bert Passau
+  - name:	Pizza Bert Passau
    url:	http://pizza-bert.de
-   name:	Pizza Romana
+  - name:	Pizza Romana
    url:	http://romanaaidenbach.de
-   name:	Nano Pizza Heimservice
+  - name:	Nano Pizza Heimservice
    url:	http://nanopizza-ergoldsbach.de
-   name:	Restaurant Kohinoor
+  - name:	Restaurant Kohinoor
    url:	http://xn--kohinoornrnberg-7vb.de
-   name:	Restaurant Shiva
+  - name:	Restaurant Shiva
    url:	http://xn--restaurantshivafrth-lbc.de
-   name:	Maharaja Palace
+  - name:	Maharaja Palace
    url:	http://xn--maharaja-palace-nrnberg-spc.de
-   name:	Restaurant Maharaja
+  - name:	Restaurant Maharaja
    url:	http://maharajaroth.de
-   name:	Robertino's Nürnberger Pizzaservice
+  - name:	Robertino's Nürnberger Pizzaservice
    url:	http://xn--nrnberger-pizzaservice-slc.de
-   name:	Restaurant Maharaja
+  - name:	Restaurant Maharaja
    url:	http://ansbach-maharaja.de
-   name:	Restaurant Gandhi
+  - name:	Restaurant Gandhi
    url:	http://gandhirestaurant.de
-   name:	Taste of India
+  - name:	Taste of India
    url:	http://tasteofindiaeppertshausen.de
-   name:	Restaurant Shagun
+  - name:	Restaurant Shagun
    url:	http://xn--shagunmnchen-jlb.de
    name:	Curry House Erlangen
    url:	http://erlangener-curryhouse.de
