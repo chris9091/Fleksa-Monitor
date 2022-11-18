@@ -138,15 +138,15 @@ sites:
   - name:	Pizza Harmonie
     url:	http://pizzaharmonie.de
   - name:	Pizza Service Schwandorf
-  url:	http://pizzaschwandorf.de
+    url:	http://pizzaschwandorf.de
   - name:	Harman Pizza
-  url:	http://harmanpizzapliening.de
+    url:	http://harmanpizzapliening.de
   - name:	Frankfurter Schnitzelexpress
-  url:	http://schnitzelheimservice.de
+    url:	http://schnitzelheimservice.de
   - name:	India Gate Sossenheim
-  url:	http://indiagatefrankfurt.de
+    url:	http://indiagatefrankfurt.de
   - name:	Restaurant India Gate
-  url:	http://indiagatestraubing.de
+    url:	http://indiagatestraubing.de
   - name:	The Taj Neubiberg
   url:	http://tajamcampeon.de
   - name:	Indian Tandoori Restaurant
