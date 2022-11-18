@@ -103,6 +103,8 @@ sites:
     url:	http://spiceofindia-hattersheim.de
   - name:	Restaurant Mai Pho
     url:	http://maiphokronberg.de
+  - name:	Test down
+    url:	http://maiphokronberg.ded  
 
 
 status-website:
