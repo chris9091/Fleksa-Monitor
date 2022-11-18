@@ -1320,7 +1320,7 @@ sites:
   - name:	Machawi Beirut
     url:	http://machawi-beirut.de
   - name:	Jumbo Pizza
-    url:	http://pizzeria-jumbo.de
+    url: http://pizzeria-jumbo.de
     
 
 status-website:
