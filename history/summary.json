@@ -815,18 +815,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kababhouse.de.ico",
     "slug": "kabab-house-offenbach",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-18": 35
+      "2022-11-18": 36
     }
   },
   {
@@ -918,7 +918,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-18": 0
+      "2022-11-18": 1
     }
   }
 ]
