@@ -5,12 +5,14 @@ repo: Fleksa-Monitor # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name:	Indian Curry House Ostend
+    url:	http://indiancurryhouseostend.de
+  - name:	Taste of India Frankfurt
+    url:	http://tasteofindia-ffm.de
+  - name:	Desi Adda
+    url:	http://desiadda.de
+  - name:	Smart Pizza Offenbach
+    url:	http://smartpizzas.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
