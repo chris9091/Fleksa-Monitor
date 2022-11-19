@@ -183,10 +183,6 @@ sites:
     url:	http://pizzaromaschierling.de
     expectedStatusCodes:
       - 405
-  - name:	Kabab House Offenbach
-    url:	http://kababhouse.de
-    expectedStatusCodes:
-      - 405
   - name:	Restaurant Mayuri
     url:	http://mayuri-duisburg.de
     expectedStatusCodes:
@@ -537,10 +533,6 @@ sites:
       - 405
   - name:	Mini Punjab Dine-in
     url:	http://minipunjab.fleksa.de
-    expectedStatusCodes:
-      - 405
-  - name:	Eli's Pizza & Pasta
-    url:	http://xn--elis-pizza-mnchen-e3b.de
     expectedStatusCodes:
       - 405
   - name:	Restaurant Bollywood
@@ -1167,10 +1159,6 @@ sites:
     url:	http://restaurantkashmir-berlin.de
     expectedStatusCodes:
       - 405
-  - name:	Restaurant Safran Augsburg
-    url:	http://restaurantsafran-augsburg.de
-    expectedStatusCodes:
-      - 405
   - name:	Krishna Haus Neuburg
     url:	http://krishnahaus.de
     expectedStatusCodes:
@@ -1275,10 +1263,6 @@ sites:
     url:	http://resturant-miramare.de
     expectedStatusCodes:
       - 405
-  - name:	Ginti and More KÖLN
-    url:	http://gintinmore.de
-    expectedStatusCodes:
-      - 405
   - name:	Restaurant Namaste
     url:	http://xn--namaste-kln-zfb.de
     expectedStatusCodes:
@@ -1325,10 +1309,6 @@ sites:
       - 405
   - name:	Gasthof Zum Bahnhof Lieferservice
     url:	http://gasthofgaum.de
-    expectedStatusCodes:
-      - 405
-  - name:	Restaurant Ginti
-    url:	http://restaurantginti.de
     expectedStatusCodes:
       - 405
   - name:	Restaurant Maharaja
