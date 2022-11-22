@@ -7,1934 +7,1612 @@ sites:
     url:	https://indiancurryhouseostend.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Taste of India Frankfurt
     url:	https://tasteofindia-ffm.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Desi Adda
     url:	https://desiadda.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Smart Pizza Offenbach
     url:	https://smartpizzas.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria O Sole Mio
     url:	https://bochum-osolemio.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Alt Bockenheim - Crazy Pizza
     url:	https://restaurantcrazypizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Alt Bockenheim - Indian Restaurant
     url:	https://restaurantaltbockenheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Food World
     url:	https://offenbach-foodworld.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Curry House Niederrad
     url:	https://indiancurryhouseniederrad.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Mai Vien
     url:	https://maivien.fleksa.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Taj Mahal
     url:	https://frechentajmahal.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian food Company
     url:	https://indianfood-company.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Isha
     url:	https://isha-restaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Ganesha Tandoori
     url:	https://ganeshafrankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Punjab Garden Tandoori
     url:	https://punjabgardenfrankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Sushi Sensei Frankfurt
     url:	https://sushisenseifrankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Bella Italia
     url:	https://pizzabellaitaliafrankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Kaiser
     url:	https://pizzakaiser-frankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Delhi Tandoori
     url:	https://delhitandoori.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Eck Frankfurt
     url:	https://pizza-eck-frankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Mülheim 2
     url:	https://xn--pizzeriamlheim2-7vb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Nidda
     url:	https://restaurant-nidda.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bali's Restaurant
     url:	https://balisrestaurant-ob.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Hamburger Inn
     url:	https://pizzahamburgerinn-griesheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Uno's Pizza
     url:	https://pizzeriaunoffm.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Ashoka Frankfurt
     url:	https://ashokafrankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Good Taste
     url:	https://goodtaste.fleksa.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Hanoi Quan
     url:	https://hanoiquanfrankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Tandoori Masala Imbiss
     url:	https://tandoorimasalaimbiss.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Kashmir India
     url:	https://restaurantkashmirindia.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bali's Restaurant
     url:	https://balisrestaurant-wesel.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Go eat food service
     url:	https://goeatfrankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Star Pizza Deggendorf
     url:	https://star-pizza-deggendorf.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Main Curry House
     url:	https://main-curry-house.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Haus
     url:	https://pizzahauslandau.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Little India
     url:	https://littleindiaalteglofsheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Plattlinger
     url:	https://pizzaplattlinger.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Roma Dingolfing
     url:	https://pizzaromadingolfing.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Roma Wallersdorf
     url:	https://pizzaromawallersdorf.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza La Fontana
     url:	https://altdorflafontana.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Taj Mahal
     url:	https://altdorftajmahal.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Little India
     url:	https://littleindiafreudenstadt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Namaste
     url:	https://namasteplattling.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Star Pizzaservice
     url:	https://teisnachstarpizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Roma Pizza Schierling
     url:	https://pizzaromaschierling.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Mayuri
     url:	https://mayuri-duisburg.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	India Haus Restaurant
     url:	https://indiahaus-md.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Spice of India
     url:	https://spiceofindia-hattersheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Mai Pho
     url:	https://maiphokronberg.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Marco Polo
     url:	https://marcopolo-aussernzell.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Sahaj
     url:	https://restaurant-sahaj.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Mattu Osterhofen
     url:	https://mattupizzaosterhofen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Badal's Küche
     url:	https://xn--badalskche-geb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant India Gate
     url:	https://indiagateeggenfelden.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Rana's Pizza und Döner Service
     url:	https://rubipizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Taj Mahal Restaurant
     url:	https://tajmahaldeggendorf.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Heimservice Taufkirchen
     url:	https://pizzataufkirchen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Namaskar
     url:	https://namaskarrestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Jannat
     url:	https://restaurant-jannat.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Nano Pizza Heimservice
     url:	https://nanopizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Tar Pizzaservice
     url:	https://tarpizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzaservice Pizzano
     url:	https://pizzaservicepizzano.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	BLITZ CITY (Pizzaservice u. Lieferservice)
     url:	https://pizzablitzcity.com
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Zaika - Indisches restaurant
     url:	https://zaikarestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Tandoori Restaurant
     url:	https://indiantandoorirestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Harmonie
     url:	https://pizzaharmonie.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Service Schwandorf
     url:	https://pizzaschwandorf.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Harman Pizza
     url:	https://harmanpizzapliening.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Frankfurter Schnitzelexpress
     url:	https://schnitzelheimservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	India Gate Sossenheim
     url:	https://indiagatefrankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant India Gate
     url:	https://indiagatestraubing.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	The Taj Neubiberg
     url:	https://tajamcampeon.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Tandoori Restaurant
     url:	https://restaurantindiantandoori.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Cafe Restaurant Maritimes
     url:	https://maritimesroding.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Roma Köz
     url:	https://xn--pizzabadktzting-htb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Tandoori Kitchen
     url:	https://indiantandoorikitchen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Deli Tadka
     url:	https://delitadka.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Natraj Indisches Restaurant
     url:	https://xn--natrajmnchen-jlb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Sangam
     url:	https://xn--sangammnchen-jlb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Suhag
     url:	https://restaurantsuhag.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	DHABA Schwabing West
     url:	https://xn--dhabamnchen-yhb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Masala
     url:	https://xn--masalamnchen-jlb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Ristorante Pizzeria Mediterraneo
     url:	https://mediterraneokelsterbach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Mini Punjab
     url:	https://minipunjab.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Restaurant Rajdarbaar Tandoori
     url:	https://xn--rajdarbaar-dsseldorf-0ec.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Town Dieburg
     url:	https://pizzatown-dieburg.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Express Pizza
     url:	https://xn--pizzaexpresshchstadt-gbc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Der Pizzaservice Straubing
     url:	https://straubingpizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Tonino
     url:	https://tonino-karlsfeld.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Tadsch Mahal (Taj Mahal)
     url:	https://xn--tajmahalnrnberg-7vb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Peperoni
     url:	https://peperonihessdorf.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Döner Pizza am Ronhof
     url:	https://xn--dnerpizzaronhof-8sb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Roter Adler (Dallizza)
     url:	https://restaurantroteradler.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Deli Tadka
     url:	https://pasing.delitadka.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Deli Tadka
     url:	https://riem.delitadka.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Deli Tadka
     url:	https://pep.delitadka.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Food world - Indian Kitchen
     url:	https://indiankitchenoffenbach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Roma Passau
     url:	https://pizzaromapassau.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Der Pizzaservice Passau
     url:	https://pizzaservicepassau.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Ganesha
     url:	https://xn--ganeshamnchen-3ob.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Bert Passau
     url:	https://pizza-bert.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Romana
     url:	https://romanaaidenbach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Nano Pizza Heimservice
     url:	https://nanopizza-ergoldsbach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Kohinoor
     url:	https://xn--kohinoornrnberg-7vb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Shiva
     url:	https://xn--restaurantshivafrth-lbc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Maharaja Palace
     url:	https://xn--maharaja-palace-nrnberg-spc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Maharaja
     url:	https://maharajaroth.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Robertino's Nürnberger Pizzaservice
     url:	https://xn--nrnberger-pizzaservice-slc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Maharaja
     url:	https://ansbach-maharaja.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Gandhi
     url:	https://gandhirestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Taste of India
     url:	https://tasteofindiaeppertshausen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Shagun
     url:	https://xn--shagunmnchen-jlb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Curry House Erlangen
     url:	https://erlangener-curryhouse.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bahia Pizzaservice
     url:	https://bahiapizza-herzogenaurach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza 2 Night Babenhausen
     url:	https://pizza2night-babenhausen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bistro serVus München
     url:	https://xn--bistroservus-mnchen-jbc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Optimal Pizza
     url:	https://xn--optimalpizza-mnchen-jbc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Punjabi Pizza Putzbrunn
     url:	https://punjabipizza-putzbrunn.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Center Mering
     url:	https://pizzacenter-mering.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Salaam Namaste
     url:	https://salaamnamaste-teisnach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Center Neusäß
     url:	https://xn--pizzacenter-neusss-0tb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indisch Curry Masala
     url:	https://currymasala-grossaitingen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	City Burgerhaus u. Hot Dog
     url:	https://cityburgerhaus-langerringen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Service Hiltenfingen
     url:	https://hiltenfingen-pizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzaservice Laguna
     url:	https://xn--pizzalaguna-neusss-0tb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Royal India - Indisches Restaurant
     url:	https://xn--royalindia-badwrishofen-mlc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Riem - Indischer Curry
     url:	https://pizzariem-indischercurry.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Taxi
     url:	https://garching-pizzataxi.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Tanda Palace
     url:	https://tandaexpress.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Amico Pizza & Burger
     url:	https://pizzaamico-oberschleissheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Der Pizzaservice Hohenthann
     url:	https://derpizza-hohenthann.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Der Pizzaservice Landshut
     url:	https://derpizza-landshut.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Mini Punjab Dine-in
     url:	https://minipunjab.fleksa.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Bollywood
     url:	https://bollywood-schongau.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Ekam Bollywood
     url:	https://restaurant-ekam.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Raj Mahal
     url:	https://rajmahal-regensburg.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Falkenstein Namaste India
     url:	https://namaste-india-falkenstein.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	City Pizza Regensburg
     url:	https://regensburg-citypizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Lovely Pizza Schwarzach
     url:	https://schwarzach-lovely-pizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Singh Palace Wald
     url:	https://singh-palace-wald.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Ekam Baliwood
     url:	https://restaurant-ekam-taj.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Taste of India
     url:	https://xn--tasteofindia-mnchen-jbc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Lounge
     url:	https://indianlounge-frankfurt.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Deli Tadka
     url: https://werksviertel-mitte.delitadka.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Mattu
     url:	https://winzer.mattupizzaosterhofen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria and Grill Suraj
     url:	https://pizzeriasuraj.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Roma Markt Schwaben
     url:	https://roma-marktschwaben.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Texas Pizzaservice
     url:	https://texas-pizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Spice of India
     url:	https://stuttgart-spiceofindia.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Punjabi Dhaba
     url:	https://punjabidhaba-bb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Punjabi Dhaba
     url:	https://dhabapunjabi.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Service Laupheim
     url:	https://laupheim-pizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bella Pizzaservice
     url:	https://unterensingen-bellapizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Punjab Restaurant Laupheim
     url:	https://laupheim-punjab.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Broadway Food Plaza
     url:	https://broadway-foodplaza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Delhi Gate - The taste of India
     url:	https://akkisindisch-foodcorner.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Lissabon
     url:	https://pizzerialissabon.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Sunny's Pizza Essen
     url:	https://sunnyspizza-essen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Kashmir India
     url:	https://kashmir-india-mh.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Dhaba Münchner Freiheit
     url:	https://xn--dhaba-mnchen-jlb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Dhaba Restaurant
     url:	https://dhaba-landshut.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	White Elefant Offenbach
     url:	https://offenbach-white-elefant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Pomodori
     url:	https://pizza-pomodori.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Little Ente
     url:	https://offenbach-little-ente.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Namaste India
     url:	https://namasteindia-indersdorf.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Punjab Haus
     url:	https://xn--punjabhaus-neusss-4qb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Tanda Palace
     url:	https://tandapalace-landshut.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Royal India
     url:	https://royalindia-biberach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Royal India
     url:	https://royalindia-badwurzach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	BC Restaurant und Lieferservice
     url:	https://bcrestaurant-biberach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Royal India
     url:	https://royalindia-ehingen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Express Picnic
     url:	https://pizzaexpress-picnic.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Namaste Immenstaad
     url:	https://namasteimmenstaad.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Schwäbische Pizza
     url:	https://xn--schwbischepizza-3kb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	The Taj München
     url:	https://xn--thetajmnchen-jlb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Royal India
     url:	https://royalindia-memmingen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Sagar Potsdam
     url:	https://sagarpotsdam.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Peißenberger Pizza service
     url:	https://peissenberger-pizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Goa Restaurant
     url:	https://goarestaurant-weilheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Corner Straubing
     url:	https://pizzacorner-straubing.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Express Schongau
     url:	https://pizzaexpress-schongau.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bella Pizzaservice
     url:	https://bellapizza-westerheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Gondola
     url:	https://pizzeria-gondola.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant India House
     url:	https://stuttgart-indiahouse.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Chilli Corner indisches Restaurant
     url:	https://chillicorner.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Giovanni Pizzeria - Lieferservice
     url:	https://pizzaservice-giovanni.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Satchi Pizza Pascara
     url:	https://satchipizzapascara.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Pal
     url:	https://palpizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Satchi Versatchi
     url:	https://versatchi.satchipizzapascara.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Maharaja Palace
     url:	https://maharajapalast.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Kitchen Munich
     url:	https://indiankitchenmunich.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Weinheim Pizzaservice
     url:	https://weinheim-pizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Italia
     url:	https://pizzeriaitalia-weinheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Mamma Mia
     url:	https://pizzamamma-mia.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Merry Pizza-Service
     url:	https://merywok-pizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Da Laura Augsburg
     url:	https://dalaurapizza.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Mama Mia Pizzeria
     url:	https://mamamiahutthurm.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Lucky's Bistro
     url:	https://luckysbistro.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Galaxyfood Lieferservice
     url:	https://galaxyfood-lieferservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Seth and Fathe
     url:	https://sethfathe-berlin.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza u. Pasta Vilshofen
     url:	https://pizzapastavilshofen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Offenbacher Essensdienst
     url:	https://offenbachessen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Ebinger Pizzaservice
     url:	https://ebingerpizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bitzer Pizzaservice
     url:	https://bitzerpizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Ganesha Palace
     url:	https://albstadt-ganeshapalace.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Mr. Singh Balingen
     url:	https://mrsinghbalingen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Krone Restaurant
     url:	https://kronebalingen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Geislinger Pizzaservice
     url:	https://geislinger-pizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Eutinger Pizzaservice
     url:	https://pizzaservice-eutinger.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Amigo Pizzaservice
     url:	https://villingen-amigo.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Taste of Tandoori Hattersheim
     url:	https://tasteoftandoorihattersheim.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Express Lörrach
     url:	https://xn--pizzalrrach-wfb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant A Casa Mia
     url:	https://pizzeria-acasamia.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Haweli
     url:	https://rheinfelden-haweli.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Lucky Express
     url:	https://pizza-luckyexpress.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Fly Express Schallstadt
     url:	https://pizza-flyexpress.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Food Palace Donaueschingen
     url:	https://donaueschingen-foodpalace.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Milano Pizza Express Weil
     url:	https://xn--milanopizzalrrach-b0b.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Milano Pizza Express
     url:	https://milanopizzaloerrach.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Mini Punjabi Dhaba
     url:	https://mini-punjabidhaba.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Gasthaus Rose
     url:	https://rosegasthaus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzaservice Taj Mahal
     url:	https://tajpizzaservice.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Taj Mahal
     url:	https://allensbach-tajmahal.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Top One Burger u. Pizza
     url:	https://pizzaburgerkonstanz.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Curry Junction
     url:	https://curryjunction.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Capri Singen
     url:	https://singen-pizzacapri.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Miami Express
     url:	https://pizza-miamiexpress.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Markdorf
     url:	https://pizzamarkdorf.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Ulmer Feuerstein
     url:	https://feuersteinpizzaulm.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Uno Pronto Pizza & Pasta
     url:	https://uno-pizza-ismaning.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Imperial Indian Palace
     url:	https://imperialindianpalace.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Taste of India
     url:	https://balingen-tasteofindia.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bella Pizza Mössingen
     url:	https://bellapizza-moessingen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Gasthof Engel Haigerloch
     url:	https://haigerloch-gasthofengel.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Schad Express
     url:	https://schadpizzaexpress.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Milan Schwenningen
     url:	https://milanpizza-schwenningen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Baraka Fried Chicken
     url:	https://barakalandau.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Markdorf
     url:	https://markdorf-pizzabodensee.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Löwen Pizza Radolfzell
     url:	https://xn--pizzalwen-57a.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Euro Pizza Burghausen
     url:	https://europizza-burghausen.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Gaststätte Eller
     url:	https://xn--gaststtte-eller-5kb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Haus Crown Food Service
     url:	https://crown-pizzahaus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza u. Kebaphaus Kuhberg
     url:	https://kuhbergkebaphaus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Rani
     url:	https://ranirestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Daily Pizza u. Kebab Ulm
     url:	https://dailypizzakebab.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Sagar werder
     url:	https://sagarwerder.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bella Venezia
     url:	https://bellaveneziafalkensee.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Roti
     url:	https://rotirestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Apne Mahlow
     url:	https://restaurantapne.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Apne Berlin
     url:	https://apnerestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Kashana
     url:	https://restaurantkashana.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Zuckerperle Konditorei
     url:	https://zuckerperleberlin.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Badshah
     url:	https://restaurantbadshah.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant EL Buen Gusto
     url:	https://el-buengusto.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Taj Mahal Haus
     url:	https://tajmahal-haus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Darbar
     url:	https://restaurantdarbar.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Dildaar
     url:	https://restaurantdildaar.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Dawat
     url:	https://restaurantdawat.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Damaru
     url:	https://restaurantdamaru.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Burger Haus
     url:	https://pizzaburgerhaus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Himalaya
     url:	https://berlinhimalaya.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Dana Pani
     url:	https://restaurantdanapani.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Anappurna
     url:	https://anappurnarestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Die Indische Küche
     url:	https://indiankitchenberlin.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Yogi Haus
     url:	https://berlinyogihaus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Taj Mahal Haus II
     url:	https://taj-mahalhaus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Roma Frankfurt
     url:	https://pizzeriaromaffm.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Rasam
     url:	https://restaurantrasam.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Radha
     url:	https://radharestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indisches Restaurant Maharadscha
     url:	https://berlinmaharadscha.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Everest
     url:	https://restauranteverest.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Arjun
     url:	https://arjunberlin.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Asman
     url:	https://restaurantasman.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Asman Tandoor
     url:	https://berlinasman.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Bombay
     url:	https://berlinbombay.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Namaste
     url:	https://berlinnamaste.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Buddha
     url:	https://buddhaberlin.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Maharani
     url:	https://xn--maharaninrnberg-7vb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Ristorante Pizzeria Verona
     url:	https://emmerichverona.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Suriya Kanthi
     url:	https://suriyakanthi.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Delhi Gate - The taste of India
     url:	https://dhaba49.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Babu
     url:	https://restaurantbabu.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Tandoori Palace
     url:	https://berlin-tandooripalace.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Yogi Ashram
     url:	https://yogiashram-berlin.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Haweli Indisches Restaurant
     url:	https://restaurant-haweli.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indisch Curry
     url:	https://indischcurry-hamburg.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indian Dream
     url:	https://berlin-indiandream.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Lal Haweli
     url:	https://lalhaweli.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Kashmir
     url:	https://restaurantkashmir-berlin.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Krishna Haus Neuburg
     url:	https://krishnahaus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Bombay
     url:	https://bombaylandau.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Muglia
     url:	https://berlinmuglia.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Bei Mario Duisburg
     url:	https://pizzeriabei-mario.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Spiros Grill Pizzeria
     url:	https://spirosgrill-pizzeria.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria L' Amore
     url:	https://pizzerialamore.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria San Marino
     url:	https://duisburg-sanmarino.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Bella Italia 2000
     url:	https://essen-bellaitalia2000.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Da Beata
     url:	https://essen-dabeata.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Italia 2010
     url:	https://essen-italia2010.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Shalimar
     url:	https://witten-shalimar.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizza Sky
     url:	https://pizzasky-dus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pak Royal - Tandoori Art
     url:	https://pakroyal-dus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pak Tandoori Grill und Pizza
     url:	https://paktandoori.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Tandoori Palace Düsseldorf
     url:	https://tandooripalace-dus.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Djordji und Boziani
     url:	https://djordji-boziani.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Sangha's Indien Cuisine
     url:	https://sanghas-restaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Uno Pizzeria Duisburg
     url:	https://uno-duisburg.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Amigo
     url:	https://toenisvorst-amigo.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Indische Küche
     url:	https://xn--indischekche-llb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Singh
     url:	https://singh-pizzeria.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Nawaab
     url:	https://nawaabrestaurant.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Don Mario
     url:	https://pizzeriadonmario.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Satchi pizza international
     url:	https://satchiinternationale.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria La Romantica
     url:	https://pizzeria-laromantica.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Resturant Mira Mare
     url:	https://resturant-miramare.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Restaurant Namaste
     url:	https://xn--namaste-kln-zfb.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Punjab Corner
     url:	https://essen-punjabcorner.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Classic India
     url:	https://essen-classicindia.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Jass Noor Restaurant
     url:	https://jassnoor.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Da Corner
     url:	https://da-pizza-corner.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Robertino's Bezahlbar Pizza
     url:	https://bezahlbar.xn--nrnberger-pizzaservice-slc.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
   - name:	Pizzeria Calimero
     url:	https://calimeroduisburg.de
     expectedStatusCodes:
       - 405
-      - 200
-      - 0 
+      - 200 
 
 
 
