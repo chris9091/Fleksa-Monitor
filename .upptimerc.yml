@@ -1823,11 +1823,6 @@ sites:
     expectedStatusCodes:
       - 405
       - 200 
-  - name:	Restaurant Artimis
-    url:	NULL
-    expectedStatusCodes:
-      - 405
-      - 200 
   - name:	Taste of India
     url:	https://tasteofindia-idstein.de
     expectedStatusCodes:
