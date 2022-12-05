@@ -1,7 +1,7 @@
 url: https://pizza-miamiexpress.de
-status: up
-code: 200
-responseTime: 912
-lastUpdated: 2022-12-04T23:22:06.265Z
+status: down
+code: 502
+responseTime: 762
+lastUpdated: 2022-12-05T20:47:41.291Z
 startTime: Tue Nov 22 2022 10:44:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
