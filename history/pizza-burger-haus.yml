@@ -1,7 +1,7 @@
 url: https://pizzaburgerhaus.de
-status: up
-code: 200
-responseTime: 815
-lastUpdated: 2022-12-14T23:22:56.816Z
+status: down
+code: 502
+responseTime: 496
+lastUpdated: 2022-12-15T15:38:23.848Z
 startTime: Tue Nov 22 2022 10:45:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
