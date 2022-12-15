@@ -1,7 +1,7 @@
 url: https://yogiashram-berlin.de
-status: up
-code: 200
-responseTime: 741
-lastUpdated: 2022-12-14T23:23:22.230Z
+status: down
+code: 502
+responseTime: 503
+lastUpdated: 2022-12-15T15:39:04.044Z
 startTime: Tue Nov 22 2022 10:46:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
